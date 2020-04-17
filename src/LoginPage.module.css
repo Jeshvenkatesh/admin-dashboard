@@ -1,0 +1,39 @@
+.loginWrapper{
+    width:500px;
+    height:350px;
+    padding:40px;
+    box-sizing:border-box;
+    background-color:#435c70;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 8px;
+    margin-top:90px;
+}
+.loginWrapper h3{
+    text-align:center;
+}
+.loginWrapper p{
+    margin:10px 0px;
+}
+.loginWrapper button{
+    width:100%;
+    color:white;
+    padding:8px 12px;
+    border-radius: 8px;
+    border:none;
+    outline:none;
+}
+.loginWrapper input{
+    width:100%;
+    font-size: 16px;
+    padding:8px 0px;
+    background-color: #54657d;
+    border-radius: 8px;
+    border:none;
+    outline:none;
+}
+.loginWrapper :last-child{
+    color:white;
+    margin-top:10px;
+    background-color:orange;
+}
